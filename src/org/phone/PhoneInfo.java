@@ -20,6 +20,8 @@ public class PhoneInfo {
     private void osName() {
     	// giving phone os version details
     	System.out.println("Phone Os version: Android9.1");
+	System.out.println("Git message1");
+	
     }
     public static void main(String[] args) {
 		PhoneInfo p= new PhoneInfo();
